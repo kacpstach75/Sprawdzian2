@@ -7,5 +7,7 @@ public class RunInfo {
         System.out.println("Pracuję na komputerze w sali 208 w Zespole Szkół im. ks. Stanisława Staszica w Tarnobrzegu");
 //        na branchu 'twoje imię' w następnej linii dopisz miejscowość zamieszkania
 
+        System.out.println("I mieszkam w Sokolnikach");
+
     }
 }
